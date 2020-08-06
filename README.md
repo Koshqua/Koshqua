@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working at https://github.com/BitMedia-IO
 - 🌱 I’m currently learning Go and Python. 
-- 📫 How to reach me: @mlvni (telegram)
+- 📫 How to reach me: @mlvni(telegram)
+                      maliovaniy.ivan@gmail.com 
 
 
