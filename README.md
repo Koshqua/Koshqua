@@ -7,4 +7,4 @@
 - 📫 How to reach me: @mlvni(telegram)
                       maliovaniy.ivan@gmail.com 
 
-[![HitCount](http://hits.dwyl.com/koshqua/koshqua.svg)](http://hits.dwyl.com/koshqua/koshqua)
+[![HitCount](http://hits.dwyl.com/Koshqua/Koshqua.svg)](http://hits.dwyl.com/Koshqua/Koshqua)
