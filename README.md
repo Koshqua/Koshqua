@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working at https://twitter.com/bitmedia_io
-- 🌱 My current stack is: Go, Docker, Docker-compose, Clickhouse, Cassandra, Mongo, Redis.  
+- Ask me about Go.  
 - 📫 How to reach me: @mlvni(telegram)
                       maliovaniy.ivan@gmail.com 
 
