@@ -2,5 +2,4 @@
 
 ### Hi there 👋
 - Ask me about Go.  
-- 📫 How to reach me: [telegram](https://t.me/mlvni)
 
